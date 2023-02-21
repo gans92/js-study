@@ -10,7 +10,7 @@
 // For example, try to use array functions such as map, filter or reduce.
 
 
-//numeros primo = numero divisivel só por 1 e ele mesmo
+//numeros primos = numero divisivel só por 1 e ele mesmo
 //ex: 3 é divisivel só por 1 e 3 (primo)
 //4 é divisivel por 1, 2, 4 (não é primo)
 
